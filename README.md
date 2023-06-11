@@ -1,7 +1,9 @@
+<img align="center" src="https://user-images.githubusercontent.com/84005654/244935234-998b33fe-f4b8-4e21-ad8a-68f7e24029cf.jpg" alt="Avatar Back Image">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit1720&label=Profile%20views&color=0e75b6&style=flat" alt="harshit1720" /> </p>
+
 <h1 align="center">Hi 👋, I'm Harshit Tanwar</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
- <img align="center" src="https://user-images.githubusercontent.com/84005654/244935234-998b33fe-f4b8-4e21-ad8a-68f7e24029cf.jpg" alt="Avatar Back Image">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit1720&label=Profile%20views&color=0e75b6&style=flat" alt="harshit1720" /> </p>
+ 
 
 
 
